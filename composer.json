@@ -6,13 +6,13 @@
         {
             "name": "denis909",
             "email": "denis909@mail.ru",
-            "homepage": "http://denis909.spb.ru",
+            "homepage": "http://denis909.spb.ru/",
             "role": "Developer"
         }
     ],
     "autoload": {
         "classmap": [
-            "src/FeatherIconsEnum.php"
+            "src/FeatherIcons.php"
         ]
     }
 }
