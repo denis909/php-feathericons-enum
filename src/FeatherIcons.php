@@ -1,6 +1,8 @@
 <?php
 
-enum FeatherIconsEnum
+namespace Denis909\FeatherIconsEnum;
+
+enum FeatherIcons
 {
     case activity = 'activity';
     case airplay = 'airplay';

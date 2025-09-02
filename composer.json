@@ -10,9 +10,12 @@
             "role": "Developer"
         }
     ],
+    "require": {
+        "php": "^8.1"
+    },
     "autoload": {
-        "classmap": [
-            "src/FeatherIcons.php"
-        ]
+        "psr-4": {
+            "Denis909\\FeatherIconsEnum\\": "src/"
+        }
     }
 }
