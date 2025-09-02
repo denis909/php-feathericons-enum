@@ -1,0 +1,18 @@
+{
+    "name": "denis909/php-feathericons-enum",
+    "license": "MIT",
+    "homepage": "https://github.com/denis909/php-feathericons-enum",
+    "authors": [
+        {
+            "name": "denis909",
+            "email": "denis909@mail.ru",
+            "homepage": "http://denis909.spb.ru",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src/FeatherIconsEnum.php"
+        ]
+    }
+}
